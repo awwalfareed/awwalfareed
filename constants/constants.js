@@ -1,6 +1,6 @@
 export const NAME = 'Muhammad Fareed';
 
-export const DESIGNATION = `Full Stack Developer | MERN Stack | MEAN Stack | JavaScript | TypeScript | NextJS | NodeJS | NestJS| MongoDB | MySQL | PostgresQL`;
+export const DESIGNATION = `Full Stack Developer | MERN Stack | MEAN Stack | JavaScript | TypeScript`;
 
 export const DETAILS = {
   Residence: 'India',
@@ -77,35 +77,44 @@ export const SKILLS = [
 
 export const TECH_STACK = [
   'JavaScript',
-  'ReactJS',
-  'NextJS',
-  'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
-  'MySQL',
-  'Git',
-  'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
+'TypeScript',
+'NodeJS',
+'Restful APIs',
+'ReactJS',
+'NextJS',
+'Angular6,11,12,13,16',
+'NestJS',
+'Redux',
+'NgRX/Store',
+'Material UI' ,
+'Angular Material' ,
+'PrimeNG',
+'Quasar',
+'Bootstrap',
+'Tailwind CSS',
+'Unit Testing',
+'AWS (EC2, S3 Bucket)',
+'Digital Ocean',
+'MongoDB',
+'MySQL',
+'GraphQL',
+'Postgresql',
+'Docker',
+'Jira',
+'Confluence',
+'Bitbucket',
+ 'Github', 
+ 'Git',
+'Unit Testing',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'fareed2019mmmut@gmail.com',
+  PHONE: '+91-7985820293',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/awwalfareed',
+  LINKEDIN: 'https://www.linkedin.com/in/muhammadfareed786/',
+  TWITTER: 'https://twitter.com/awwalfareed',
+  FACEBOOK: 'https://www.facebook.com/awwalfareed',
 };
