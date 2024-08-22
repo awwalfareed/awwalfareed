@@ -3,7 +3,7 @@
   <h2 align="center">Muhammad Fareed - Personal Portfolio</h2>
 
 
-<a href="[https://awwalfareed.vercel.app/](https://awwalfareed.netlify.app/)"><strong>➥ Live Demo</strong></a>
+<a href="https://awwalfareed.vercel.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
